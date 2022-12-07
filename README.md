@@ -6,11 +6,7 @@
 <div align="center"> 
   <a href="https://github.com/fiduchi">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiduchi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Stas Fiduchi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiduchi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=fiduchi&theme=gotham&hide_border=true&area=true)
 
 
 <div align="center">
@@ -29,5 +25,3 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/c%23-090909?style=for-the-badge&logo=C-sharp&logoColor=F88C00)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Javat&logoColor=E9D54D)
-
-  <!--![Snake animation](https://github.com/fiduchi/fiduchi/blob/output/github-contribution-grid-snake.svg)-->
