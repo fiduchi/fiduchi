@@ -25,3 +25,4 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/c%23-090909?style=for-the-badge&logo=C-sharp&logoColor=F88C00)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Javat&logoColor=E9D54D)
+I am studying
